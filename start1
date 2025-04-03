@@ -1,0 +1,3 @@
+#!/bin/bash
+# Пример запуска: ./start1 i arg1 arg2
+clear;./entrypoint1 "$@"

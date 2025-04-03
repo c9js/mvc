@@ -1,0 +1,3 @@
+#!/bin/bash
+# Пример запуска: ./start2 auth
+clear;./entrypoint2 "$@"
