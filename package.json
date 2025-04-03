@@ -1,0 +1,5 @@
+{
+    "name": "mvc",
+    "version": "0.0.1",
+    "main": "core/core.js"
+}
